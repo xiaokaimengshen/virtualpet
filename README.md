@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/python-3.9+-blue.svg" />
   </a>
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/DyberPet-v0.7.7-green.svg"/>
+    <img src="https://img.shields.io/badge/Virtualpet-v0.8.0-green.svg"/>
   </a>
 </p>
 
@@ -123,5 +123,6 @@ Windows 也可以直接双击 `run_debug.bat` 启动调试运行。
 
 ## 致谢
 - 源码框架基于呆啵宠物 [呆啵宠物 | DyberPet](https://github.com/ChaozhongLiu/DyberPet#GPL-3.0-1-ov-file)，感谢作者大大 [ChaozhongLiu](https://t.bilibili.com/1174719726373306402?share_source=pc_native) 的指导和帮助。
+
 
 
