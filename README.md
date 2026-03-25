@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
   猫猫桌宠 | Virtualpet
 </h1>
 
@@ -27,17 +27,14 @@
 
 ![Interface](https://raw.githubusercontent.com/ChaozhongLiu/DyberPet/main/docs/DyberPet.png)
 
-:octocat: 目前项目正在开发桌宠新功能，非常需要更多伙伴的加入。  
-如果你有意向加入，请在 b 站[私信我](小恐龙_QAQ)。欢迎一起构建框架。
+目前项目正在开发桌宠新功能，非常需要更多伙伴的加入。  
+如果你有意向加入，请在b站[私信我](小恐龙_QAQ)。欢迎一起构建框架 🥰
 
-如果你喜欢这个桌宠程序，请点击右上角的 ⭐ **STAR**，这对我们有很大的激励。
+如果你喜欢这个桌宠程序，请点击右上角的 ⭐ STAR，这对我们有很大的激励。
 
-:new: **03-01-2025: v0.7.7** 程序已打包上传 [Release](https://github.com/ChaozhongLiu/DyberPet/releases/tag/v0.7.7)，有任何问题欢迎向我反馈。(LLM 模块暂未开源)  
-:new: **06-26-2024** CSDN 正大规模从 GitHub 搬运开源项目至其旗下 GitCode，包括 DyberPet。该仓库与我们没有任何关系。GitCode 使用我名字的主页也并非我本人创建，也请仔细甄别您在 GitCode 上看到的其他项目。  
-:new: **03-25-2026: v0.8.0** 已更新下载与运行方式，推荐直接按下方步骤体验。
+03-25-2026: v0.8.0 程序源码已上传，程序也已打包上传，有任何问题欢迎向我反馈。
 
 ## 下载与运行教程
-
 ### 1. 下载项目
 1. 打开仓库主页：<https://github.com/xiaokaimengshen/virtualpet>
 2. 点击 `Code` -> `Download ZIP`
@@ -126,3 +123,4 @@ Windows 也可以直接双击 `run_debug.bat` 启动调试运行。
 
 ## 致谢
 - 源码框架基于呆啵宠物 [呆啵宠物 | DyberPet](https://github.com/ChaozhongLiu/DyberPet#GPL-3.0-1-ov-file)，感谢作者大大 [ChaozhongLiu](https://t.bilibili.com/1174719726373306402?share_source=pc_native) 的指导和帮助。
+
