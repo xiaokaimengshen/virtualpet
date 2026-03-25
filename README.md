@@ -28,7 +28,7 @@
 ![Interface](https://raw.githubusercontent.com/ChaozhongLiu/DyberPet/main/docs/DyberPet.png)
 
 目前项目正在开发桌宠新功能，非常需要更多伙伴的加入。  
-如果你有意向加入，请在b站[私信我](小恐龙_QAQ)。欢迎一起构建框架 🥰
+如果你有意向加入，请在b站搜索私信我(小恐龙_QAQ)。欢迎一起构建框架 🥰
 
 如果你喜欢这个桌宠程序，请点击右上角的 ⭐ STAR，这对我们有很大的激励。
 
@@ -123,4 +123,5 @@ Windows 也可以直接双击 `run_debug.bat` 启动调试运行。
 
 ## 致谢
 - 源码框架基于呆啵宠物 [呆啵宠物 | DyberPet](https://github.com/ChaozhongLiu/DyberPet#GPL-3.0-1-ov-file)，感谢作者大大 [ChaozhongLiu](https://t.bilibili.com/1174719726373306402?share_source=pc_native) 的指导和帮助。
+
 
